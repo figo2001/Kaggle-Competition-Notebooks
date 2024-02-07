@@ -4,7 +4,7 @@ Welcome to my repository of Kaggle competition notebooks! Here you'll find my so
 
 ## Competitions
 
-### [Bank Churm Prediction](https://www.kaggle.com/competitions/titanic)
+### [Bank Churm Prediction](https://www.kaggle.com/competitions/playground-series-s4e1)
 
 ### [Digit Recognizer](https://www.kaggle.com/competitions/digit-recognizer)
 
